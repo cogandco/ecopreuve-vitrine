@@ -101,12 +101,10 @@ header nav a:hover {
 
 h1 {
   font-family: 'Archivo Black', sans-serif;
-  font-size: 40px;
+  font-size: clamp(28px, 7vw, 40px);
   line-height: 1.12;
   color: var(--green-deep);
   margin-bottom: 20px;
-  -webkit-hyphens: auto;
-  hyphens: auto;
 }
 
 .hero p.subhead {
@@ -330,5 +328,4 @@ footer a:hover { color: var(--green-deep); }
   .hero { grid-template-columns: 1fr; }
   .step-row { grid-template-columns: 1fr; }
   .solution-grid { grid-template-columns: 1fr; }
-  h1 { font-size: 32px; }
 }
