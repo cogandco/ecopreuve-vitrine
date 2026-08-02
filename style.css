@@ -105,7 +105,8 @@ h1 {
   line-height: 1.12;
   color: var(--green-deep);
   margin-bottom: 20px;
-  overflow-wrap: break-word;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 
 .hero p.subhead {
