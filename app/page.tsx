@@ -1,15 +1,10 @@
+import SiteHeader from "@/components/SiteHeader";
+import SiteFooter from "@/components/SiteFooter";
+
 export default function Home() {
   return (
     <>
-      <header>
-        <div className="logo-mark">
-          <img src="/images/logo.png" alt="" />
-          <span className="logo-word">Éco-Preuve</span>
-        </div>
-        <nav>
-          <a href="https://app.ecopreuve.fr/login">Connexion</a>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <section className="hero">
         <div className="hero-content">
@@ -144,16 +139,7 @@ export default function Home() {
         <a href="https://app.ecopreuve.fr/login" className="cta">Créer mon compte</a>
       </section>
 
-      <footer>
-        <div className="wrap">
-          <span>© 2026 COQUAZ — Éco-Preuve</span>
-          <div>
-            <a href="mailto:contact@ecopreuve.fr">Contact</a>
-            <a href="https://app.ecopreuve.fr/mentions-legales">Mentions légales</a>
-            <a href="https://app.ecopreuve.fr/cgu">CGU</a>
-          </div>
-        </div>
-      </footer>
+      <SiteFooter />
     </>
   );
 }

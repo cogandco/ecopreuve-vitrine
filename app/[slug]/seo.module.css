@@ -1,0 +1,97 @@
+/*
+ * Styles propres au gabarit de page SEO.
+ * Les 3 sections de contenu (règle, modèle, problème) réutilisent la classe
+ * globale "block" + "wrap" de app/globals.css (padding, largeur, H2 Archivo
+ * Black centré) — rien n'est redéfini ici pour elles. Ce fichier ne couvre
+ * que ce qui n'a pas d'équivalent existant : l'intro (H1 + chapeau), la
+ * liste de règles et le bloc "modèle".
+ */
+
+.intro {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 64px 24px 8px;
+}
+
+.chapeau {
+  font-size: 18px;
+  line-height: 1.65;
+  color: var(--muted);
+}
+
+.chapeau :global(strong) {
+  color: var(--green-deep);
+}
+
+/* Ce que dit la règle : reprend le vocabulaire visuel de .problem-item
+   (bordure gauche orange = obligation légale, déjà établi sur l'accueil) */
+
+.regleBody {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.regleBody :global(p) {
+  font-size: 15px;
+  color: var(--muted);
+  margin-bottom: 16px;
+}
+
+.regleBody :global(ul) {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.regleBody :global(li) {
+  background: white;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--orange);
+  border-radius: 2px;
+  padding: 16px 20px;
+  font-size: 15px;
+  color: var(--muted);
+}
+
+.regleBody :global(strong) {
+  color: var(--green-deep);
+}
+
+/* Le modèle : l'élément signature de la page — traité comme un tampon
+   officiel (mono, fond vert pâle, bordure vert marque), à copier tel quel. */
+
+.modeleBody {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.modeleBody :global(blockquote) {
+  margin: 0;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--green-deep);
+  background: var(--green-pale);
+  border: 1px solid var(--green-brand);
+  border-radius: 4px;
+  padding: 22px 24px;
+}
+
+.modeleBody :global(blockquote p) {
+  margin: 0;
+}
+
+/* Le problème du fait main : prose simple */
+
+.painBody {
+  max-width: 760px;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--muted);
+}
+
+.painBody :global(p) {
+  margin: 0;
+}
