@@ -9,16 +9,16 @@ Depuis le 1er juillet 2021 (décret n°2020-1817), tout devis de travaux de cons
 
 ## Ce que dit la règle
 
-Le devis doit préciser :
+Le devis doit préciser (art. D.541-45-1 du Code de l'environnement) :
 
-- Une **estimation de la quantité totale** de déchets prévus
-- Les **modalités de gestion et d'enlèvement**
-- L'**effort de tri réalisé** et la nature des déchets pour lesquels une collecte séparée est prévue
-- Le cas échéant, le **broyage sur chantier** pour les travaux de jardinage
+- Une **estimation de la quantité totale** de déchets générés
+- Les **modalités de gestion et d'enlèvement** — effort de tri réalisé, nature des déchets pour lesquels une collecte séparée est prévue et, pour les seuls travaux de jardinage, le broyage sur place le cas échéant
+- Le ou les **points de collecte prévus** — raison sociale, adresse et type d'installation
+- Une **estimation des coûts associés** à cette gestion des déchets
 
 ## Le modèle
 
-> Modalités de gestion des déchets : métal et gravats évacués séparément — broyage du bois sur chantier — centre de traitement : [nom, adresse]
+> Estimation des déchets générés : 2,5 m³ (métal, gravats, bois) — modalités de gestion : tri sur chantier, métal et gravats évacués séparément — point de collecte : [raison sociale], [adresse], [type d'installation] — coût estimé de la gestion des déchets : [montant] € HT
 
 ## Le problème du fait main
 
