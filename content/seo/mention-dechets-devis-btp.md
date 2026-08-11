@@ -12,13 +12,13 @@ Depuis le 1er juillet 2021 (décret n°2020-1817), tout devis de travaux de cons
 Le devis doit préciser (art. D.541-45-1 du Code de l'environnement) :
 
 - Une **estimation de la quantité totale** de déchets générés
-- Les **modalités de gestion et d'enlèvement** — effort de tri réalisé, nature des déchets pour lesquels une collecte séparée est prévue et, pour les seuls travaux de jardinage, le broyage sur place le cas échéant
-- Le ou les **points de collecte prévus** — raison sociale, adresse et type d'installation
+- Les **modalités de gestion et d'enlèvement** : effort de tri réalisé, nature des déchets pour lesquels une collecte séparée est prévue et, pour les seuls travaux de jardinage, le broyage sur place le cas échéant
+- Le ou les **points de collecte prévus** : raison sociale, adresse et type d'installation
 - Une **estimation des coûts associés** à cette gestion des déchets
 
 ## Le modèle
 
-> Estimation des déchets générés : 2,5 m³ (métal, gravats, bois) — modalités de gestion : tri sur chantier, métal et gravats évacués séparément — point de collecte : [raison sociale], [adresse], [type d'installation] — coût estimé de la gestion des déchets : [montant] € HT
+> Estimation des déchets générés : 2,5 m³ (métal, gravats, bois) ; modalités de gestion : tri sur chantier, métal et gravats évacués séparément ; point de collecte : [raison sociale], [adresse], [type d'installation] ; coût estimé de la gestion des déchets : [montant] € HT
 
 ## Le problème du fait main
 
@@ -26,4 +26,4 @@ Rédiger cette mention à la main pour chaque devis, sans suivi entre le devis e
 
 ## CTA
 
-Le devis n'est qu'une estimation. Éco-Preuve garde la preuve de ce que vous avez vraiment trié — prêt pour votre prochain appel d'offres.
+Le devis n'est qu'une estimation. Éco-Preuve garde la preuve de ce que vous avez vraiment trié, prête pour votre prochain appel d'offres.
