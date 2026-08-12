@@ -8,10 +8,10 @@ export default function Home() {
 
       <section className="hero">
         <div className="hero-content">
-          <span className="eyebrow">Le tri des déchets de chantier, obligatoire depuis 2023</span>
+          <span className="eyebrow">La reprise gratuite de vos déchets triés, disponible depuis mai 2023</span>
           <h1>Chaque chantier trié, chaque déchet valorisé.</h1>
           <p className="subhead">
-            {`Photographiez le tri de vos déchets en quelques secondes, sur chaque chantier — pas seulement ceux qui comptent pour un marché. Bénéficiez de la reprise gratuite, et gardez vos preuves prêtes le jour où un appel d'offres se présente.`}
+            {`Photographiez vos preuves de tri en quelques secondes sur le terrain. Profitez de la reprise gratuite en point de collecte agréé et constituez votre dossier de preuves au fil de l'eau, prêt pour votre prochain marché.`}
           </p>
           <a href="#comment-ca-marche" className="cta">Voir comment ça marche en 30 secondes</a>
         </div>
@@ -23,9 +23,9 @@ export default function Home() {
 
       <section className="block" id="quotidien" style={{ background: "var(--green-pale)" }}>
         <div className="wrap" style={{ maxWidth: "780px", textAlign: "center" }}>
-          <h2>Le tri, ça paie littéralement</h2>
+          <h2>Moins de frais de déchetterie, plus de preuves pour vos dossiers</h2>
           <p style={{ fontSize: "15px", color: "var(--muted)", marginBottom: "24px" }}>
-            {`Depuis 2023, la filière REP PMCB impose le tri des déchets sur tous les chantiers du bâtiment — publics comme privés. En échange, un déchet bien trié et documenté peut être repris gratuitement par les éco-organismes agréés. Pas besoin d'attendre un marché public pour en profiter : chaque chantier compte.`}
+            {`Le tri à la source des déchets de chantier est une obligation générale pour tout professionnel du bâtiment. Depuis mai 2023, la filière REP PMCB transforme cette obligation en avantage concret : vos déchets triés sont repris gratuitement par les éco-organismes agréés, financés par l'éco-contribution déjà payée sur vos matériaux. Une habitude simple à prendre dès aujourd'hui pour alléger vos coûts et valoriser votre entreprise.`}
           </p>
           <a
             href="https://oca-batiment.org/reseau-points-de-collecte/"
