@@ -3,6 +3,7 @@ title: "Mention déchets devis jardinage : les mêmes règles, une nuance en plu
 metaDescription: "Un devis de jardinage suit les mêmes 4 règles que le BTP, avec une spécificité : le broyage sur place, à mentionner seulement s'il est réellement prévu."
 requeteCible: "Mention déchets devis jardinage travaux extérieurs"
 famille: "A"
+datePublished: "2026-08-14"
 ---
 
 Un devis de travaux de jardinage suit exactement les mêmes quatre règles que les autres chantiers du BTP. Une seule différence s'ajoute : le broyage sur place, à mentionner uniquement s'il est effectivement prévu. Voici cette nuance en détail, et ce qui reste flou dans le texte sur la notion même de « jardinage ».

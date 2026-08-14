@@ -3,6 +3,7 @@ title: "Modèle mention déchets devis travaux : la formule et ses variantes"
 metaDescription: "La formule de mention déchets utilisée par la profession (FFB, éditeurs de logiciels BTP), plus des variantes selon le chantier : simple, multi-flux, jardinage."
 requeteCible: "Modèle mention déchets devis travaux"
 famille: "A"
+datePublished: "2026-08-14"
 ---
 
 Plutôt que de réinventer votre mention déchets à chaque devis, partez d'une formule déjà utilisée par la profession. On vous donne le texte de référence employé par la FFB et repris par des éditeurs de logiciels de devis BTP, puis des variantes prêtes à adapter selon que votre chantier produit un seul type de déchet ou plusieurs flux différents.

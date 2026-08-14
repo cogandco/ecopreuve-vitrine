@@ -3,6 +3,7 @@ title: "Amende mention déchets devis : ce que risque un artisan"
 metaDescription: "Oublier la mention déchets sur un devis BTP expose à une amende de 3 000 € à 15 000 €. Montant, autorité de contrôle et déroulé réel d'une procédure de sanction."
 requeteCible: "Amende mention déchets devis artisan"
 famille: "A"
+datePublished: "2026-08-14"
 ---
 
 Un devis BTP sans mention déchets expose à une amende administrative de 3 000 € pour un artisan en nom propre, 15 000 € pour une société. Le montant est fixé par la loi, pas laissé à l'appréciation d'un agent. Voici ce que dit précisément le texte, qui est habilité à contrôler, et comment se déroule réellement une procédure de sanction.

@@ -3,6 +3,7 @@ title: "Gestion déchets chantier peintre : le piège du pot sec"
 metaDescription: "Un pot de peinture séché reste un déchet dangereux. Le rejet des eaux de lavage est encadré par la loi, avec autorisation à demander et amende à la clé."
 requeteCible: "Gestion déchets chantier peintre pots de peinture"
 famille: "D"
+datePublished: "2026-08-14"
 ---
 
 Un pot de peinture séché n'est pas un déchet comme un autre : contrairement à une idée reçue très répandue, il reste un déchet dangereux au même titre qu'un pot plein. Le rejet des eaux de lavage de votre matériel est lui aussi encadré par la loi, avec une autorisation à demander et une amende à la clé en cas d'oubli. Voici ce que dit précisément le texte sur ces deux sujets.

@@ -3,6 +3,7 @@ title: "Devis sans mention déchets : que faire si vous l'avez oublié"
 metaDescription: "Devis envoyé ou déjà signé sans la mention déchets : la marche à suivre n'est pas la même selon les deux cas. Ce qu'il faut faire, et comment le formaliser."
 requeteCible: "Devis BTP sans mention déchets risque"
 famille: "A"
+datePublished: "2026-08-14"
 ---
 
 Vous venez de vous rendre compte qu'un devis est parti sans la mention déchets. La marche à suivre dépend d'un seul élément : ce devis est-il déjà signé par le client, ou pas encore ? Ce n'est ni le même formalisme, ni la même urgence dans les deux cas.

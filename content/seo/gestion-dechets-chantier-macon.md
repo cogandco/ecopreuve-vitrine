@@ -3,6 +3,7 @@ title: "Gestion déchets chantier maçon : les pièges propres au métier"
 metaDescription: "Plâtre mélangé aux gravats, béton armé, foisonnement du volume : les pièges de gestion des déchets propres au métier de maçon, et l'état de la reprise gratuite."
 requeteCible: "Gestion déchets chantier maçon obligation"
 famille: "D"
+datePublished: "2026-08-14"
 ---
 
 Un maçon ne gère pas ses déchets de chantier comme n'importe quel autre corps de métier du BTP. Deux pièges reviennent particulièrement sur ce type de chantier, et un mélange de matériaux courant chez vous peut coûter cher sans que ce soit vraiment une négligence. Voici ce qui est propre à votre métier, au-delà des règles générales déjà connues.

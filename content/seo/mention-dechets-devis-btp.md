@@ -3,6 +3,8 @@ title: "Mention déchets sur devis BTP : ce qui est obligatoire depuis 2021"
 metaDescription: "Depuis 2021, tout devis BTP doit mentionner l'estimation des déchets et leur mode de gestion, sous peine d'amende. Ce qu'il faut écrire, avec un exemple prêt à copier."
 requeteCible: "Mention déchets obligatoire devis BTP"
 famille: "A"
+datePublished: "2026-08-10"
+dateModified: "2026-08-14"
 ---
 
 Depuis le 1er juillet 2021 (décret n°2020-1817), tout devis de travaux de construction, rénovation, démolition ou jardinage doit obligatoirement mentionner une estimation des déchets générés et leurs modalités de gestion. Une amende de 3 000 € (personne physique) à 15 000 € (personne morale) est encourue en cas de non-respect (art. L.541-21-2-3, III du Code de l'environnement). Voici ce que la mention doit contenir précisément, avec un exemple prêt à copier sur votre prochain devis.

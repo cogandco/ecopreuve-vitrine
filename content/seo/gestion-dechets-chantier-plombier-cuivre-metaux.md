@@ -3,6 +3,7 @@ title: "Gestion déchets chantier plombier : plomb et fluides frigorigènes"
 metaDescription: "Cuivre et acier suivent la filière métaux classique. Deux vrais points de vigilance pour le plombier : le plomb en rénovation ancienne, et les fluides frigorigènes."
 requeteCible: "Gestion déchets chantier plombier cuivre métaux"
 famille: "D"
+datePublished: "2026-08-14"
 ---
 
 Le cuivre, l'acier et le laiton d'un chantier de plomberie suivent une filière métallique classique, sans piège particulier. Deux points méritent une vraie vigilance : le plomb sur les rénovations de bâtiments anciens, et les fluides frigorigènes si vous touchez aux pompes à chaleur ou à la climatisation. Voici ce que dit le texte sur ces deux sujets précis.

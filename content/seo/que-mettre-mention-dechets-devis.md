@@ -3,6 +3,7 @@ title: "Que mettre dans la mention déchets d'un devis : les deux points qui coi
 metaDescription: "Les 4 éléments obligatoires sont simples sur le papier, mais deux d'entre eux posent plus de difficultés en pratique. Lesquels, et une checklist avant d'envoyer."
 requeteCible: "Que mettre dans la mention déchets d'un devis"
 famille: "A"
+datePublished: "2026-08-14"
 ---
 
 Sur le papier, les quatre éléments à mettre dans la mention déchets sont simples à lister. En pratique, deux d'entre eux posent plus de difficultés que les deux autres au moment de rédiger le devis. Voici lesquels, et pourquoi.

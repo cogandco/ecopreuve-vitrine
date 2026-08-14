@@ -13,6 +13,10 @@ export interface SeoFrontmatter {
   metaDescription: string;
   requeteCible: string;
   famille: SeoFamille;
+  /** Date de première publication, format AAAA-MM-JJ. */
+  datePublished: string;
+  /** Date de dernière modification factuelle, format AAAA-MM-JJ. Retombe sur datePublished si absente. */
+  dateModified?: string;
 }
 
 export interface SeoPage {

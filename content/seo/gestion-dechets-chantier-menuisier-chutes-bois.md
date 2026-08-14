@@ -3,6 +3,7 @@ title: "Gestion déchets chantier menuisier : les 3 classes du bois, et le pièg
 metaDescription: "Le bois de chantier se classe en 3 catégories. Le vrai point de vigilance du menuisier : la peinture au plomb sur les menuiseries anciennes à déposer."
 requeteCible: "Gestion déchets chantier menuisier chutes de bois"
 famille: "D"
+datePublished: "2026-08-14"
 ---
 
 Toutes vos chutes de bois ne vont pas dans la même benne : la réglementation distingue trois classes selon le degré de traitement. Le point le plus spécifique à votre métier ne concerne d'ailleurs pas le bois lui-même, mais la peinture qui le recouvre parfois sur les menuiseries anciennes. Voici ce que dit le texte sur ces deux sujets.

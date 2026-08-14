@@ -3,6 +3,8 @@ title: "Comment remplir la mention déchets sur un devis BTP"
 metaDescription: "La loi ne dit pas où placer la mention déchets sur un devis BTP, seulement ce qu'elle doit contenir. Voici l'usage recommandé par la profession, avec un exemple."
 requeteCible: "Comment remplir la mention déchets sur un devis"
 famille: "A"
+datePublished: "2026-08-11"
+dateModified: "2026-08-14"
 ---
 
 Vous savez déjà qu'un devis BTP doit comporter une mention déchets, mais où l'écrire, et sous quelle forme ? Le décret n°2020-1817 fixe précisément le contenu de cette mention, pas sa présentation. On vous explique ce que dit vraiment le texte sur la forme, l'usage recommandé par la profession, et on vous donne un exemple.

@@ -3,6 +3,7 @@ title: "Estimation quantité déchets chantier devis : les repères qui existent
 metaDescription: "La loi n'impose aucune précision pour l'estimation de déchets sur un devis. Voici les ratios utilisés par la profession pour arriver à un chiffre cohérent."
 requeteCible: "Estimation quantité déchets chantier devis"
 famille: "A"
+datePublished: "2026-08-14"
 ---
 
 La loi n'impose aucune précision particulière pour l'estimation de quantité de déchets sur un devis : ni fourchette, ni unité obligatoire. Ça ne veut pas dire qu'un chiffre sorti au hasard suffit, en cas de contrôle il doit rester crédible au regard du chantier. Voici ce que dit le texte, et les repères que la profession utilise réellement pour arriver à un chiffre cohérent.

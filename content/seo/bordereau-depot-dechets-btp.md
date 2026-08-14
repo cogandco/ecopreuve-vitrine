@@ -3,6 +3,7 @@ title: "Bordereau de dépôt des déchets BTP : ce que c'est, et ce que ce n'est
 metaDescription: "Le bordereau de dépôt des déchets BTP existe depuis 2021, à ne pas confondre avec le CERFA des déchets dangereux (BSDD). Ce qu'il contient, et ce qui reste incertain."
 requeteCible: "Bordereau de dépôt des déchets CERFA BTP"
 famille: "A"
+datePublished: "2026-08-14"
 ---
 
 Depuis juillet 2021, un bordereau de dépôt doit être rempli à chaque dépôt de déchets de chantier en installation de collecte. Ce document est parfois présenté comme un CERFA, mais aucun numéro officiel n'a pu être confirmé pour cette obligation précise, à ne pas confondre avec le bordereau de suivi des déchets dangereux qui lui est un vrai CERFA. Voici ce que ce bordereau de dépôt contient réellement, et ce qui le distingue du document avec lequel il est souvent confondu.
