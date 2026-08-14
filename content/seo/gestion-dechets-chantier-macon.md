@@ -7,7 +7,7 @@ datePublished: "2026-08-14"
 voirAussi:
   - "estimation-quantite-dechets-chantier-devis"
   - "bordereau-depot-dechets-btp"
-  - "modele-mention-dechets-devis-travaux"
+  - "gestion-dechets-chantier-plaquiste-ba13"
 ---
 
 Un maçon ne gère pas ses déchets de chantier comme n'importe quel autre corps de métier du BTP. Deux pièges reviennent particulièrement sur ce type de chantier, et un mélange de matériaux courant chez vous peut coûter cher sans que ce soit vraiment une négligence. Voici ce qui est propre à votre métier, au-delà des règles générales déjà connues.
@@ -16,7 +16,7 @@ Un maçon ne gère pas ses déchets de chantier comme n'importe quel autre corps
 
 Les gravats classiques du maçon (béton, briques, parpaings, mortier, carrelage, pierres naturelles, tuiles) sont des déchets inertes, 100 % minéraux.
 
-Le plâtre, que vous manipulez couramment pour des enduits, des joints ou des cloisons, **n'est pas un déchet inerte**. Il réagit avec l'eau et produit des sulfates, ce qui le classe en déchet non dangereux, pas en inerte, même s'il ressemble visuellement à un simple gravat.
+Le plâtre, que vous manipulez couramment pour des enduits, des joints ou des cloisons, **n'est pas un déchet inerte**. Il réagit avec l'eau et produit des sulfates, ce qui le classe en déchet non dangereux, pas en inerte, même s'il ressemble visuellement à un simple gravat. Le trier à part n'est d'ailleurs pas qu'une question de coût : depuis le décret n°2021-950 du 16 juillet 2021, c'est une obligation légale de tri à la source, développée plus en détail sur [la page dédiée au plaquiste](/gestion-dechets-chantier-plaquiste-ba13).
 
 Le béton armé, ou ferraillé, est un autre cas particulier. Il n'est pas valorisé tel quel : il nécessite un déferraillage, c'est-à-dire une séparation des fers à béton, avant d'être concassé et valorisé. Comptez entre 50 et 150 kg de fer par m³ de béton armé.
 
