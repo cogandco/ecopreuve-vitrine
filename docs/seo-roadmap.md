@@ -15,15 +15,15 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | # | Requête | Statut | Fichier |
 |---|---|---|---|
 | 1 | Mention déchets obligatoire devis BTP | ✅ | `mention-dechets-devis-btp.md` |
-| 2 | Comment remplir la mention déchets sur un devis | ⬜ | — |
-| 3 | Amende mention déchets devis artisan | ⬜ | — |
-| 4 | Modèle mention déchets devis travaux | ⬜ | — |
-| 5 | Estimation quantité déchets chantier devis | ⬜ | — |
-| 6 | Devis BTP sans mention déchets risque | ⬜ | — |
-| 7 | Bordereau de dépôt des déchets CERFA BTP | ⬜ | — |
-| 8 | Obligation devis déchets rénovation maison | ⬜ | — |
-| 9 | Que mettre dans la mention déchets d'un devis | ⬜ | — |
-| 10 | Mention déchets devis jardinage travaux extérieurs | ⬜ | — |
+| 2 | Comment remplir la mention déchets sur un devis | ✅ | `comment-remplir-mention-dechets-devis.md` |
+| 3 | Amende mention déchets devis artisan | ✅ | `amende-mention-dechets-devis-artisan.md` |
+| 4 | Modèle mention déchets devis travaux | ✅ | `modele-mention-dechets-devis-travaux.md` |
+| 5 | Estimation quantité déchets chantier devis | ✅ | `estimation-quantite-dechets-chantier-devis.md` |
+| 6 | Devis BTP sans mention déchets risque | ✅ | `devis-sans-mention-dechets-que-faire.md` |
+| 7 | Bordereau de dépôt des déchets CERFA BTP | ✅ | `bordereau-depot-dechets-btp.md` |
+| 8 | Obligation devis déchets rénovation maison | ✅ | `obligation-devis-dechets-renovation-maison.md` |
+| 9 | Que mettre dans la mention déchets d'un devis | ✅ | `que-mettre-mention-dechets-devis.md` |
+| 10 | Mention déchets devis jardinage travaux extérieurs | ✅ | `mention-dechets-devis-jardinage-travaux-exterieurs.md` |
 
 ## Famille B — Article 35 / critère environnemental marchés publics (angle artisan, pas généraliste)
 
