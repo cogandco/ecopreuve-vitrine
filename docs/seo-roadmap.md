@@ -66,7 +66,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | 31 | Gestion déchets chantier plombier cuivre métaux | ✅ | `gestion-dechets-chantier-plombier-cuivre-metaux.md` |
 | 32 | Gestion déchets chantier peintre pots de peinture | ✅ | `gestion-dechets-chantier-peintre-pots-peinture.md` |
 | 33 | Gestion déchets chantier menuisier chutes de bois | ✅ | `gestion-dechets-chantier-menuisier-chutes-bois.md` |
-| 34 | Gestion déchets chantier couvreur zinc ardoises | ⬜ | — |
+| 34 | Gestion déchets chantier couvreur zinc ardoises | ✅ | `gestion-dechets-chantier-couvreur-zinc-ardoises.md` |
 | 35 | Gestion déchets chantier carreleur gravats | ⬜ | — |
 | 36 | Gestion déchets chantier plaquiste BA13 | ⬜ | — |
 | 37 | Gestion déchets chantier terrassier terres excavées | ⬜ | — |
