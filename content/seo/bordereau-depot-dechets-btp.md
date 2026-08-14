@@ -18,6 +18,8 @@ Le **bordereau de dépôt** dont il est question ici est un document distinct, c
 
 L'entreprise de travaux qui dépose les déchets doit conserver ce bordereau et le présenter sur demande au maître d'ouvrage ou en cas de contrôle. La durée de conservation exacte n'est pas fixée par l'article D.541-45-1 lui-même : nous ne l'affirmons donc pas ici, faute de source la confirmant précisément pour ce document.
 
+Ne pas conserver ce bordereau, ou refuser de le présenter alors qu'il est demandé, n'est pas qu'un manquement administratif mineur. L'article L.541-46, 17° du Code de l'environnement sanctionne le non-respect des obligations posées par le II de l'article L.541-21-2-3, celles qui portent précisément sur ce bordereau, jusqu'à **4 ans d'emprisonnement et 150 000 € d'amende** (version en vigueur depuis le 24 avril 2024). C'est une sanction pénale, prononcée par un tribunal, à ne pas confondre avec l'amende administrative de 3 000 € à 15 000 € qui sanctionne l'absence de mention sur le devis (art. L.541-21-2-3, III, déjà détaillée sur [la page consacrée à l'amende](/amende-mention-dechets-devis-artisan)) : deux manquements distincts, deux régimes de sanction différents.
+
 ## Le modèle
 
 Le bordereau de dépôt constate ce qui s'est réellement passé, pas ce qui était prévu. Il est rempli et signé conjointement par l'entreprise et l'installation de collecte au moment du dépôt, et doit comporter :
@@ -32,7 +34,7 @@ C'est un constat après coup, à comparer avec [l'estimation prévisionnelle qui
 
 ## Le problème du fait main
 
-Deux risques reviennent souvent. Le premier, confondre ce bordereau de dépôt avec le BSDD des déchets dangereux, et penser qu'un seul des deux documents suffit alors qu'ils ne couvrent pas les mêmes déchets. Le second, plus fréquent, ne pas conserver le bordereau une fois le dépôt fait, alors qu'il peut être réclamé par le maître d'ouvrage ou lors d'un contrôle bien après la fin du chantier.
+Deux risques reviennent souvent. Le premier, confondre ce bordereau de dépôt avec le BSDD des déchets dangereux, et penser qu'un seul des deux documents suffit alors qu'ils ne couvrent pas les mêmes déchets. Le second, plus fréquent, ne pas conserver le bordereau une fois le dépôt fait, alors qu'il peut être réclamé par le maître d'ouvrage ou lors d'un contrôle bien après la fin du chantier, avec une sanction pénale à la clé, pas seulement administrative.
 
 ## CTA
 
