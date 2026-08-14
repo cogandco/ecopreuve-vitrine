@@ -44,6 +44,8 @@ header .logo-mark {
   display: flex;
   align-items: center;
   gap: 10px;
+  color: inherit;
+  text-decoration: none;
 }
 
 header .logo-mark img {

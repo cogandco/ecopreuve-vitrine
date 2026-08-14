@@ -1,10 +1,12 @@
+import Link from "next/link";
+
 export default function SiteHeader() {
   return (
     <header>
-      <div className="logo-mark">
+      <Link href="/" className="logo-mark">
         <img src="/images/logo.png" alt="" />
         <span className="logo-word">Éco-Preuve</span>
-      </div>
+      </Link>
       <nav>
         <a href="https://app.ecopreuve.fr/login">Connexion</a>
       </nav>
