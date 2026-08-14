@@ -6,7 +6,7 @@ famille: "D"
 datePublished: "2026-08-14"
 voirAussi:
   - "gestion-dechets-chantier-electricien-deee"
-  - "gestion-dechets-chantier-macon"
+  - "gestion-dechets-chantier-couvreur-zinc-ardoises"
   - "modele-mention-dechets-devis-travaux"
 ---
 
