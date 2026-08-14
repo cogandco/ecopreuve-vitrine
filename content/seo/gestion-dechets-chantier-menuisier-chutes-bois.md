@@ -4,6 +4,10 @@ metaDescription: "Le bois de chantier se classe en 3 catégories. Le vrai point 
 requeteCible: "Gestion déchets chantier menuisier chutes de bois"
 famille: "D"
 datePublished: "2026-08-14"
+voirAussi:
+  - "gestion-dechets-chantier-peintre-pots-peinture"
+  - "modele-mention-dechets-devis-travaux"
+  - "gestion-dechets-chantier-macon"
 ---
 
 Toutes vos chutes de bois ne vont pas dans la même benne : la réglementation distingue trois classes selon le degré de traitement. Le point le plus spécifique à votre métier ne concerne d'ailleurs pas le bois lui-même, mais la peinture qui le recouvre parfois sur les menuiseries anciennes. Voici ce que dit le texte sur ces deux sujets.

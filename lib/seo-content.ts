@@ -17,6 +17,8 @@ export interface SeoFrontmatter {
   datePublished: string;
   /** Date de dernière modification factuelle, format AAAA-MM-JJ. Retombe sur datePublished si absente. */
   dateModified?: string;
+  /** Slugs des pages à afficher dans le bloc "Voir aussi", dans l'ordre d'affichage. */
+  voirAussi?: string[];
 }
 
 export interface SeoPage {
@@ -91,6 +93,20 @@ function requireSection(
 
 function toHtml(markdown: string): string {
   return marked.parse(markdown, { async: false }) as string;
+}
+
+/**
+ * Frontmatter seul d'une page, sans découpage de sections ni conversion
+ * Markdown->HTML. Utilisé pour résoudre le titre d'une page ciblée par
+ * "voirAussi" sans payer le coût de son rendu complet. Lève si le slug
+ * n'existe pas : un slug mal orthographié dans "voirAussi" casse le build
+ * plutôt que de produire un lien mort en production.
+ */
+export function getSeoFrontmatter(slug: string): SeoFrontmatter {
+  const filePath = path.join(CONTENT_DIR, `${slug}.md`);
+  const raw = fs.readFileSync(filePath, "utf8");
+  const { data } = matter(raw);
+  return data as SeoFrontmatter;
 }
 
 export function getAllSeoSlugs(): string[] {

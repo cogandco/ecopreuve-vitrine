@@ -4,6 +4,10 @@ metaDescription: "Les DEEE sur un chantier électrique relèvent d'une obligatio
 requeteCible: "Gestion déchets chantier électricien DEEE"
 famille: "D"
 datePublished: "2026-08-14"
+voirAussi:
+  - "modele-mention-dechets-devis-travaux"
+  - "gestion-dechets-chantier-plombier-cuivre-metaux"
+  - "mention-dechets-devis-btp"
 ---
 
 L'obligation de gérer les DEEE, les déchets d'équipements électriques et électroniques, sur un chantier électrique n'a rien de nouveau : elle existe depuis 2005, bien avant l'article 35 et l'échéance de 2026 dont on parle ailleurs à propos des marchés publics. Elle concerne directement votre métier, avec un piège précis à connaître sur ce que vous faites de vos équipements en fin de vie. Voici ce que dit le texte, et l'erreur la plus fréquente à éviter.

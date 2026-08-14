@@ -10,7 +10,7 @@ Sur le papier, les quatre éléments à mettre dans la mention déchets sont sim
 
 ## Ce que dit la règle
 
-La mention déchets doit comporter quatre éléments : une estimation de la quantité de déchets, les modalités de gestion et de tri, le ou les points de collecte, et une estimation des coûts associés. Le détail complet de chacun est déjà couvert sur la page dédiée à cette obligation.
+La mention déchets doit comporter quatre éléments : une estimation de la quantité de déchets, les modalités de gestion et de tri, le ou les points de collecte, et une estimation des coûts associés. Le détail complet de chacun est déjà couvert sur [la page dédiée à cette obligation](/mention-dechets-devis-btp).
 
 Sur ces quatre éléments, deux nous semblent structurellement plus difficiles à remplir au moment où on rédige le devis. C'est une observation logique de notre part, pas une statistique : aucune donnée ne documente ce qui est réellement le plus souvent oublié en pratique.
 

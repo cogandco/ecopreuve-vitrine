@@ -4,6 +4,9 @@ metaDescription: "La loi n'impose aucune précision pour l'estimation de déchet
 requeteCible: "Estimation quantité déchets chantier devis"
 famille: "A"
 datePublished: "2026-08-14"
+voirAussi:
+  - "que-mettre-mention-dechets-devis"
+  - "gestion-dechets-chantier-macon"
 ---
 
 La loi n'impose aucune précision particulière pour l'estimation de quantité de déchets sur un devis : ni fourchette, ni unité obligatoire. Ça ne veut pas dire qu'un chiffre sorti au hasard suffit, en cas de contrôle il doit rester crédible au regard du chantier. Voici ce que dit le texte, et les repères que la profession utilise réellement pour arriver à un chiffre cohérent.

@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
-import { getAllSeoSlugs, getSeoPage } from "@/lib/seo-content";
+import { getAllSeoSlugs, getSeoPage, getSeoFrontmatter } from "@/lib/seo-content";
 import { SITE_URL, SITE_NAME, SITE_LOGO_URL } from "@/lib/site";
+import VoirAussi from "./VoirAussi";
 import styles from "./seo.module.css";
 
 // Export statique : tous les slugs possibles doivent être connus au build.
@@ -66,6 +67,11 @@ export default async function SeoPage({
     },
   };
 
+  const voirAussiItems = (page.frontmatter.voirAussi ?? []).map((voirAussiSlug) => ({
+    slug: voirAussiSlug,
+    title: getSeoFrontmatter(voirAussiSlug).title,
+  }));
+
   return (
     <>
       <script
@@ -116,6 +122,9 @@ export default async function SeoPage({
             />
           </div>
         </section>
+
+        {/* Voir aussi — maillage interne, absent si voirAussi n'est pas renseigné en frontmatter */}
+        <VoirAussi items={voirAussiItems} />
 
         {/* 5. CTA encadré — reprend telle quelle la section .cta-final de l'accueil */}
         <section className="cta-final">

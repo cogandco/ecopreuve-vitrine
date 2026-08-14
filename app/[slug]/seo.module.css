@@ -95,3 +95,36 @@
 .painBody :global(p) {
   margin: 0;
 }
+
+/* Voir aussi : liste de liens internes, même vocabulaire visuel que les
+   listes de .regleBody (carte blanche bordée) mais sans la bordure gauche
+   orange, qui signifie spécifiquement "obligation légale" ailleurs. */
+
+.voirAussiList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.voirAussiList li {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+}
+
+.voirAussiList a {
+  display: block;
+  padding: 14px 20px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--green-deep);
+  text-decoration: none;
+}
+
+.voirAussiList a:hover {
+  text-decoration: underline;
+}

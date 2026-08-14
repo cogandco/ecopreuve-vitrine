@@ -10,7 +10,7 @@ Plutôt que de réinventer votre mention déchets à chaque devis, partez d'une 
 
 ## Ce que dit la règle
 
-Le devis doit toujours comporter les quatre éléments vus sur la page précédente : l'estimation de la quantité de déchets, les modalités de gestion et d'enlèvement, le ou les points de collecte, et le coût estimé associé. C'est le contenu qui est imposé, pas la formulation exacte.
+Le devis doit toujours comporter les quatre éléments [vus sur la page précédente](/mention-dechets-devis-btp) : l'estimation de la quantité de déchets, les modalités de gestion et d'enlèvement, le ou les points de collecte, et le coût estimé associé. C'est le contenu qui est imposé, pas la formulation exacte.
 
 Pour la partie rédactionnelle, la profession s'est largement alignée sur une même formule de référence, reprise aussi bien par la FFB (Fédération Française du Bâtiment) que par des éditeurs de logiciels de devis BTP comme EBP. C'est ce texte que nous reprenons ci-dessous comme point de départ.
 

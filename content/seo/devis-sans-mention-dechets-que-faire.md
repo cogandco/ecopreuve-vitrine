@@ -4,6 +4,10 @@ metaDescription: "Devis envoyé ou déjà signé sans la mention déchets : la m
 requeteCible: "Devis BTP sans mention déchets risque"
 famille: "A"
 datePublished: "2026-08-14"
+voirAussi:
+  - "amende-mention-dechets-devis-artisan"
+  - "mention-dechets-devis-btp"
+  - "que-mettre-mention-dechets-devis"
 ---
 
 Vous venez de vous rendre compte qu'un devis est parti sans la mention déchets. La marche à suivre dépend d'un seul élément : ce devis est-il déjà signé par le client, ou pas encore ? Ce n'est ni le même formalisme, ni la même urgence dans les deux cas.

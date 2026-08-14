@@ -4,6 +4,9 @@ metaDescription: "Toute rénovation de maison est concernée par la mention déc
 requeteCible: "Obligation devis déchets rénovation maison"
 famille: "A"
 datePublished: "2026-08-14"
+voirAussi:
+  - "modele-mention-dechets-devis-travaux"
+  - "bordereau-depot-dechets-btp"
 ---
 
 Oui, votre rénovation est concernée, même si les travaux sont limités. La mention déchets sur le devis s'applique à toute rénovation de bâtiment, sans seuil de surface ni d'ampleur des travaux. Voici ce que dit précisément le texte, et la seule exception qui existe, qui ne concerne quasiment jamais une maison individuelle.

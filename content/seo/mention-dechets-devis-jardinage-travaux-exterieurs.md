@@ -10,7 +10,7 @@ Un devis de travaux de jardinage suit exactement les mêmes quatre règles que l
 
 ## Ce que dit la règle
 
-La mention déchets pour un chantier de jardinage comporte les mêmes quatre éléments que pour tout autre chantier : une estimation de la quantité de déchets, les modalités de gestion et de tri, le ou les points de collecte, et une estimation des coûts. Le détail complet de chacun est déjà couvert sur la page dédiée à cette obligation.
+La mention déchets pour un chantier de jardinage comporte les mêmes quatre éléments que pour tout autre chantier : une estimation de la quantité de déchets, les modalités de gestion et de tri, le ou les points de collecte, et une estimation des coûts. Le détail complet de chacun est déjà couvert sur [la page dédiée à cette obligation](/mention-dechets-devis-btp).
 
 La seule spécificité tient dans une phrase de l'article D.541-45-1 : « le cas échéant, le broyage des déchets sur le chantier… dans le cadre de travaux de jardinage ». Cette formule est importante à bien lire : ce n'est pas une mention facultative que l'entreprise choisirait d'ajouter ou non par confort de communication. C'est une mention **conditionnelle**, à indiquer seulement si un broyage est effectivement prévu sur ce chantier précis. Si aucun broyage n'est prévu, cette ligne n'a pas à figurer sur le devis, au même titre qu'une modalité de gestion qui ne s'applique pas au chantier.
 

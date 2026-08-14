@@ -4,6 +4,10 @@ metaDescription: "Plâtre mélangé aux gravats, béton armé, foisonnement du v
 requeteCible: "Gestion déchets chantier maçon obligation"
 famille: "D"
 datePublished: "2026-08-14"
+voirAussi:
+  - "estimation-quantite-dechets-chantier-devis"
+  - "bordereau-depot-dechets-btp"
+  - "modele-mention-dechets-devis-travaux"
 ---
 
 Un maçon ne gère pas ses déchets de chantier comme n'importe quel autre corps de métier du BTP. Deux pièges reviennent particulièrement sur ce type de chantier, et un mélange de matériaux courant chez vous peut coûter cher sans que ce soit vraiment une négligence. Voici ce qui est propre à votre métier, au-delà des règles générales déjà connues.
