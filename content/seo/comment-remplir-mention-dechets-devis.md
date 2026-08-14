@@ -11,7 +11,7 @@ Vous savez déjà qu'un devis BTP doit comporter une mention déchets, mais où 
 
 L'article D.541-45-1 du Code de l'environnement liste ce que la mention doit **contenir**, mais ne fixe **aucune exigence sur son emplacement** dans le devis : rien n'impose de la placer dans le corps du document plutôt qu'en annexe séparée, ni de suivre une mise en forme particulière.
 
-Autre point utile : le contenu de la mention ne varie pas selon le type de chantier. Les mêmes éléments obligatoires s'appliquent aux travaux de construction, de rénovation et de démolition. La seule exception concerne les travaux de jardinage, pour lesquels s'ajoute le broyage des déchets sur place.
+Autre point utile : le contenu de la mention ne varie pas selon le type de chantier. Les mêmes éléments obligatoires s'appliquent aux travaux de construction, de rénovation et de démolition. Deux exceptions existent : pour les travaux de jardinage, s'ajoute le broyage des déchets sur place ; et les travaux soumis à l'obligation de diagnostic prévue à l'article L.111-10-4 du Code de la construction et de l'habitation sont exemptés de cette mention sur le devis (art. L.541-21-2-3 du Code de l'environnement).
 
 ## Le modèle
 
