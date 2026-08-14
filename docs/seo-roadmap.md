@@ -62,7 +62,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | # | Requête | Statut | Fichier |
 |---|---|---|---|
 | 29 | Gestion déchets chantier maçon obligation | ✅ | `gestion-dechets-chantier-macon.md` |
-| 30 | Gestion déchets chantier électricien DEEE ⚠️ | ⬜ | — |
+| 30 | Gestion déchets chantier électricien DEEE ⚠️ | ✅ | `gestion-dechets-chantier-electricien-deee.md` |
 | 31 | Gestion déchets chantier plombier cuivre métaux | ⬜ | — |
 | 32 | Gestion déchets chantier peintre pots de peinture | ⬜ | — |
 | 33 | Gestion déchets chantier menuisier chutes de bois | ⬜ | — |
