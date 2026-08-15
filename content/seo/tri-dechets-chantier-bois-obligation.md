@@ -1,6 +1,6 @@
 ---
 title: "Tri déchets chantier bois : une obligation qui ne date pas de 2021"
-metaDescription: "Le tri du bois est obligatoire depuis 2016, pas depuis le décret plâtre de 2021, et ne concerne pas que le menuisier. Ce que dit le texte, et le circuit de reprise Valobat."
+metaDescription: "Le tri du bois est obligatoire depuis 2016, pas depuis le décret plâtre de 2021, et ne concerne pas que le menuisier. Ce que dit le texte, et le circuit de reprise REP PMCB."
 requeteCible: "Tri déchets chantier bois obligation"
 famille: "C"
 datePublished: "2026-08-15"
@@ -22,7 +22,7 @@ L'obligation vise le producteur de déchets, c'est à dire l'entreprise qui réa
 
 ## Le modèle
 
-Une fois le bois trié à part, il rejoint un circuit de reprise structuré par la REP PMCB. **Valobat** est l'un des quatre éco-organismes agréés pour cette filière, aux côtés d'Ecominéro, Ecomaison et Valdelia, et c'est lui qui gère spécifiquement le bois du bâtiment.
+Une fois le bois trié à part, il rejoint un circuit de reprise structuré par la REP PMCB. Le bois relève de la catégorie 2 (produits non minéraux), éligible chez trois des quatre éco-organismes agréés pour cette filière : **Valobat**, Ecomaison et Valdelia, aux côtés d'Ecominéro qui couvre uniquement le minéral. Il n'y a donc pas d'éco-organisme unique dédié au bois : **Valobat** propose une offre de reprise et de valorisation spécifique à ce flux, mais Ecomaison et Valdelia peuvent aussi le prendre en charge selon l'éco-organisme choisi par le fabricant metteur sur le marché.
 
 L'objectif affiché par Valobat à horizon 2027 : 45 % de recyclage matière et 45 % de valorisation énergétique pour les déchets bois du bâtiment. Le recyclage matière ne se limite pas à la chaufferie biomasse déjà connue : il passe aussi par une transformation en **panneaux de particules** ou en **pâte à papier**, via une dizaine d'installations françaises qui consomment du bois recyclé. Seuls les copeaux inutilisables pour cette filière matière partent en valorisation énergétique.
 
