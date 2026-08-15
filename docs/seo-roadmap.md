@@ -69,7 +69,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | 34 | Gestion déchets chantier couvreur zinc ardoises | ✅ | `gestion-dechets-chantier-couvreur-zinc-ardoises.md` |
 | 35 | Gestion déchets chantier carreleur gravats | ✅ | `gestion-dechets-chantier-carreleur-gravats.md` |
 | 36 | Gestion déchets chantier plaquiste BA13 | ✅ | `gestion-dechets-chantier-plaquiste-ba13.md` |
-| 37 | Gestion déchets chantier terrassier terres excavées | ⬜ | — |
+| 37 | Gestion déchets chantier terrassier terres excavées | ✅ | `gestion-dechets-chantier-terrassier-terres-excavees.md` |
 
 ## Famille E — Circuit court / fournisseurs locaux
 

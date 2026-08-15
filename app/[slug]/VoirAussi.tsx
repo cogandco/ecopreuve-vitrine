@@ -6,8 +6,11 @@ interface VoirAussiItem {
 }
 
 /**
- * Bloc de maillage interne en fin de page, juste avant le CTA. Ne s'affiche
- * pas si la page n'a pas de "voirAussi" en frontmatter (items vide).
+ * Bloc de maillage interne en fin de page, juste avant le CTA. items inclut
+ * toujours au moins le lien vers /ressources (ajouté dans page.tsx), donc ce
+ * bloc s'affiche sur toutes les pages, avec ou sans "voirAussi" en
+ * frontmatter. Le garde-fou ci-dessous reste en place si items venait un
+ * jour à être vide pour une autre raison.
  */
 export default function VoirAussi({ items }: { items: VoirAussiItem[] }) {
   if (items.length === 0) return null;

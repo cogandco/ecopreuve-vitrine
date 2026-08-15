@@ -67,10 +67,18 @@ export default async function SeoPage({
     },
   };
 
-  const voirAussiItems = (page.frontmatter.voirAussi ?? []).map((voirAussiSlug) => ({
-    slug: voirAussiSlug,
-    title: getSeoFrontmatter(voirAussiSlug).title,
-  }));
+  // Le dernier item pointe systématiquement vers le hub /ressources, sur
+  // toutes les pages, y compris celles sans "voirAussi" en frontmatter :
+  // ce n'est pas une page de contenu résolue via getSeoFrontmatter (elle
+  // n'a pas de fichier content/seo/ressources.md), donc ajoutée à la main
+  // plutôt que via un slug dans le frontmatter.
+  const voirAussiItems = [
+    ...(page.frontmatter.voirAussi ?? []).map((voirAussiSlug) => ({
+      slug: voirAussiSlug,
+      title: getSeoFrontmatter(voirAussiSlug).title,
+    })),
+    { slug: "ressources", title: "Toutes nos ressources" },
+  ];
 
   return (
     <>
