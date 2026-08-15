@@ -48,7 +48,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | 20 | Tri déchets chantier métaux que faire | ✅ | `tri-dechets-chantier-metaux-que-faire.md` |
 | 21 | Tri déchets chantier plâtre recyclage | ✅ | `tri-dechets-chantier-platre-recyclage.md` |
 | 22 | Tri déchets chantier plastiques collecte | ✅ | `tri-dechets-chantier-plastiques-collecte.md` |
-| 23 | Tri déchets chantier verre point de collecte | ⬜ | — |
+| 23 | Tri déchets chantier verre point de collecte | ✅ | `tri-dechets-chantier-verre-point-de-collecte.md` |
 | 24 | Tri déchets chantier papier carton BTP | ⬜ | — |
 | 25 | Déchets inertes chantier gravats où déposer | ⬜ | — |
 | 26 | REP PMCB obligation artisan explication simple | ⬜ | — |
