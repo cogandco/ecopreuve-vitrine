@@ -26,6 +26,8 @@ La protection recommandée : un masque FFP2 dès qu'il y a émission de poussiè
 
 Mélanger le plâtre avec les gravats inertes dans la même benne n'est pas qu'une question de coût, contrairement à ce qu'on pourrait penser en ne regardant que la facture : c'est une infraction à une obligation légale de tri à la source. Le plâtre est friable, il ne peut pas être isolé une fois mélangé en benne : sans tri à la source, le lot entier est refusé en plateforme de traitement.
 
+Un second piège, moins visible, ne dépend pas du mélange mais de la composition même du produit posé : une plaque avec isolant collé ou toile de verre reste exclue du recyclage plaque-à-plaque, même triée à part dans les règles. [Détail sur la page dédiée au recyclage du plâtre](/tri-dechets-chantier-platre-recyclage).
+
 ## CTA
 
 Le devis n'est qu'une estimation. Éco-Preuve garde la preuve de ce que vous avez vraiment trié, prête pour votre prochain appel d'offres.
