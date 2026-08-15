@@ -1,0 +1,61 @@
+/*
+ * Styles propres à la page /ressources.
+ * Les sections par famille réutilisent "block" + "wrap" de app/globals.css
+ * (padding, largeur, H2 Archivo Black centré) — seuls l'intro et la liste de
+ * pages sont définis ici, dans le même vocabulaire visuel que
+ * app/[slug]/seo.module.css (.voirAussiList) sans en dépendre directement :
+ * cette route a son propre module, scopé comme les autres.
+ */
+
+.intro {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 64px 24px 8px;
+  text-align: center;
+}
+
+.chapeau {
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+.pageList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.pageList a {
+  display: block;
+  padding: 14px 20px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--green-deep);
+  text-decoration: none;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+}
+
+.pageList a:hover {
+  text-decoration: underline;
+}
+
+/* Famille sans page publiée : même gabarit de carte, statut non cliquable.
+   Porté directement par le <li> (pas de <a> à l'intérieur), donc pas de
+   conflit de spécificité avec la règle .pageList a ci-dessus. */
+
+.comingSoon {
+  display: block;
+  padding: 14px 20px;
+  font-size: 15px;
+  color: var(--muted);
+  border: 1px dashed var(--border);
+  border-radius: 2px;
+  background: transparent;
+}

@@ -8,6 +8,9 @@ export default function SiteHeader() {
         <span className="logo-word">Éco-Preuve</span>
       </Link>
       <nav>
+        <Link href="/ressources" className="nav-link">
+          Ressources
+        </Link>
         <a href="https://app.ecopreuve.fr/login">Connexion</a>
       </nav>
     </header>

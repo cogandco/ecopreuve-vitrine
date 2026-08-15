@@ -59,6 +59,12 @@ header .logo-mark img {
   color: var(--green-deep);
 }
 
+header nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
 header nav a {
   font-size: 14px;
   color: var(--green-deep);
@@ -71,6 +77,21 @@ header nav a {
 header nav a:hover {
   background: var(--green-deep);
   color: white;
+}
+
+/* Lien de navigation secondaire (ex. "Ressources") : pas le même poids
+   visuel que le CTA "Connexion", donc pas de bouton bordé. */
+
+header nav a.nav-link {
+  border: none;
+  padding: 0;
+  font-weight: 600;
+}
+
+header nav a.nav-link:hover {
+  background: none;
+  color: var(--green-brand);
+  text-decoration: underline;
 }
 
 /* Hero */

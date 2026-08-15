@@ -8,6 +8,23 @@ const CONTENT_DIR = path.join(process.cwd(), "content", "seo");
 /** Familles de requêtes A à F (voir la liste des 46 requêtes cibles). */
 export type SeoFamille = "A" | "B" | "C" | "D" | "E" | "F";
 
+/**
+ * Libellés des 6 familles, dans l'ordre d'affichage de la page /ressources.
+ * Seule source de vérité pour ces libellés : contrairement aux pages elles-
+ * mêmes (dérivées du frontmatter des .md), rien dans le code ne permet de
+ * les déduire automatiquement, donc ils vivent ici plutôt que d'être
+ * reconstruits en parsant docs/seo-roadmap.md (un doc de suivi interne, pas
+ * une source de données pour le build).
+ */
+export const SEO_FAMILLES: { code: SeoFamille; label: string }[] = [
+  { code: "A", label: "Mention déchets sur devis" },
+  { code: "B", label: "Marchés publics et critère environnemental" },
+  { code: "C", label: "Gestion des déchets par flux (REP PMCB)" },
+  { code: "D", label: "Par corps de métier" },
+  { code: "E", label: "Circuit court et fournisseurs locaux" },
+  { code: "F", label: "Outils et modèles pratiques" },
+];
+
 export interface SeoFrontmatter {
   title: string;
   metaDescription: string;
@@ -115,6 +132,15 @@ export function getAllSeoSlugs(): string[] {
     .readdirSync(CONTENT_DIR)
     .filter((file) => file.endsWith(".md"))
     .map((file) => file.replace(/\.md$/, ""));
+}
+
+/**
+ * Frontmatter de toutes les pages SEO publiées, pour les vues qui listent
+ * l'ensemble du contenu (page /ressources). Ne rend pas le Markdown : même
+ * logique de coût que getSeoFrontmatter.
+ */
+export function getAllSeoPages(): { slug: string; frontmatter: SeoFrontmatter }[] {
+  return getAllSeoSlugs().map((slug) => ({ slug, frontmatter: getSeoFrontmatter(slug) }));
 }
 
 export function getSeoPage(slug: string): SeoPage {
