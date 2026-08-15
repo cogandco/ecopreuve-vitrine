@@ -7,6 +7,7 @@ export default function SiteFooter() {
           <a href="mailto:contact@ecopreuve.fr">Contact</a>
           <a href="https://app.ecopreuve.fr/mentions-legales">Mentions légales</a>
           <a href="https://app.ecopreuve.fr/cgu">CGU</a>
+          <a href="https://cogandco.fr" target="_blank" rel="noopener noreferrer">Cog & Co</a>
         </div>
       </div>
     </footer>
