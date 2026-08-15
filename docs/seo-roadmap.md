@@ -45,7 +45,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | # | Requête | Statut | Fichier |
 |---|---|---|---|
 | 19 | Tri déchets chantier bois obligation | ✅ | `tri-dechets-chantier-bois-obligation.md` |
-| 20 | Tri déchets chantier métaux que faire | ⬜ | — |
+| 20 | Tri déchets chantier métaux que faire | ✅ | `tri-dechets-chantier-metaux-que-faire.md` |
 | 21 | Tri déchets chantier plâtre recyclage | ⬜ | — |
 | 22 | Tri déchets chantier plastiques collecte | ⬜ | — |
 | 23 | Tri déchets chantier verre point de collecte | ⬜ | — |
