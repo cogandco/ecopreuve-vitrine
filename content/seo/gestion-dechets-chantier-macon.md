@@ -22,7 +22,7 @@ Le béton armé, ou ferraillé, est un autre cas particulier. Il n'est pas valor
 
 ## Le modèle
 
-**Le mélange plâtre et gravats inertes.** Un seul morceau de plâtre dans une benne de gravats suffit à déclasser toute la benne en déchets non dangereux. La conséquence est directement chiffrable : la filière inerte coûte entre 5 et 18 € la tonne, la filière non dangereux entre 50 et 150 € la tonne. Un seul matériau mal trié multiplie donc le coût de traitement de toute la benne par 5 à 15 environ.
+**Le mélange plâtre et gravats inertes.** Un seul morceau de plâtre dans une benne de gravats suffit à déclasser toute la benne en déchets non dangereux. La conséquence est directement chiffrable : la filière inerte coûte entre 5 et 18 € la tonne, la filière non dangereux entre 50 et 150 € la tonne. Un seul matériau mal trié multiplie donc le coût de traitement de toute la benne par 5 à 15 environ. Ce mécanisme de déclassement ne se limite pas au plâtre : il vaut pour tout déchet non inerte mélangé aux gravats, un point détaillé plus largement sur [la page dédiée aux déchets inertes](/dechets-inertes-chantier-gravats-ou-deposer).
 
 **Le foisonnement.** Les gravats déposés en vrac dans une benne occupent souvent 30 à 50 % de volume en plus que ce que laisse penser un tas compact estimé à l'œil. Un point à garder en tête avant de commander une benne, pour ne pas se retrouver à devoir en commander une deuxième en urgence.
 
