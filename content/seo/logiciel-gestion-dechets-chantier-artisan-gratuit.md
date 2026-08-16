@@ -18,7 +18,7 @@ Trois catégories de solutions gratuites existent, avec des périmètres différ
 
 **Trackdéchets** est une plateforme de l'État, développée par le ministère de la Transition écologique, entièrement gratuite. Elle est obligatoire depuis le 1er janvier 2022, mais uniquement pour la traçabilité des déchets dangereux, peintures, solvants, amiante. Elle ne couvre pas l'ensemble des flux BTP déjà vus dans les familles précédentes de ce site, inertes, bois, métal, plâtre, plastique.
 
-**Ecodrop** est une application mobile privée, gratuite, qui aide à trouver une déchèterie partenaire ou organiser une collecte sur chantier. Elle a été distinguée par l'ADEME dans le cadre d'un appel à projets. Sa limite est géographique : la couverture reste circonscrite à l'Île-de-France, avec une quarantaine de points de collecte partenaires.
+**Ecodrop** est une application mobile privée, gratuite, qui aide à trouver une déchèterie partenaire ou organiser une collecte sur chantier. Elle a été distinguée par l'ADEME dans le cadre d'un appel à projets. Sa limite est géographique : la couverture reste circonscrite à l'Île-de-France, avec une quarantaine de points de collecte partenaires. D'autres applications suivent le même principe, chacune adossée à son propre service de collecte, recensées sur [la page dédiée](/application-mobile-chantier-btp-preuve-environnementale).
 
 **Les modèles Excel gratuits**, proposés notamment par plusieurs sites spécialisés BTP, restent la solution "fait maison" la plus répandue : des tableaux de suivi de chantier avec un module dédié aux déchets, personnalisables, sans coût.
 
