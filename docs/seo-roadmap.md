@@ -78,7 +78,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | 38 | Circuit court BTP comment le prouver | ✅ | `circuit-court-btp-comment-le-prouver.md` |
 | 39 | Fournisseur matériaux local avantage marché public | ✅ | `fournisseur-materiaux-local-avantage-marche-public.md` |
 | 40 | Calcul distance fournisseur chantier justification | ✅ | `calcul-distance-fournisseur-chantier-justification.md` |
-| 41 | Circuit court construction définition critères | ⬜ | — |
+| 41 | Circuit court construction définition critères | ✅ | `circuit-court-construction-definition-criteres.md` |
 
 ## Famille F — Pratique / outils / modèles
 

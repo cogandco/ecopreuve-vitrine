@@ -14,7 +14,7 @@ Il n'existe aucune définition légale du "circuit court" dans le BTP, ni seuil 
 
 ## Ce que dit la règle
 
-Aucun texte ne définit le circuit court pour le BTP. La seule définition légale française du circuit court, celle du ministère de l'Agriculture, concerne les produits agricoles : un intermédiaire maximum entre producteur et consommateur, sans aucun seuil de distance kilométrique. Cette définition ne s'étend pas aux matériaux de construction : il n'y a pas d'équivalent BTP.
+Aucun texte ne définit le circuit court pour le BTP. La seule définition légale française du circuit court, celle du ministère de l'Agriculture, concerne les produits agricoles : un intermédiaire maximum entre producteur et consommateur, sans aucun seuil de distance kilométrique. Cette définition ne s'étend pas aux matériaux de construction : il n'y a pas d'équivalent BTP. Le terme est par ailleurs souvent mélangé, dans le langage courant du secteur, avec des notions voisines mais distinctes, réemploi de matériaux, filière sèche, clarifiées sur [la page dédiée](/circuit-court-construction-definition-criteres).
 
 Le fondement réel qui rend le circuit court pertinent dans un marché public, c'est l'article 35 de la loi Climat et Résilience (loi n°2021-1104 du 22 août 2021). Ce texte impose aux acheteurs publics d'intégrer un critère lié aux caractéristiques environnementales de l'offre, sans jamais nommer le circuit court ni la proximité géographique. Les émissions de gaz à effet de serre liées au transport des matériaux peuvent faire partie de ce critère : c'est ce biais-là, l'empreinte carbone du transport, qui rend le kilométrage réel pertinent dans une offre, pas une case "circuit court" à cocher.
 

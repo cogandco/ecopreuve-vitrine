@@ -32,6 +32,8 @@ Le piège à connaître avant de calculer : l'itinéraire le plus court affiché
 
 Le réflexe le plus courant, par simplicité : calculer une distance à vol d'oiseau plutôt qu'un itinéraire réel, ou reprendre l'itinéraire le plus court affiché sans vérifier s'il est réellement praticable par un poids lourd. Dans les deux cas, la distance présentée dans le dossier ne correspond pas au trajet réellement parcouru par le transport, ce qui fausse justement l'argument qu'on cherche à documenter avec précision.
 
+Une fois ce chiffre calculé correctement, reste à savoir ce qu'il pèse vraiment dans la notation et comment le valoriser au-delà de la seule case environnementale : c'est l'objet de [la page dédiée à l'avantage du fournisseur local](/fournisseur-materiaux-local-avantage-marche-public).
+
 ## CTA
 
 Le devis n'est qu'une estimation. Éco-Preuve garde la preuve de ce que vous avez vraiment trié, prête pour votre prochain appel d'offres.
