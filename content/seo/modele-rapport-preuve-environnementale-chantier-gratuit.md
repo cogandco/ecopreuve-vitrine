@@ -24,7 +24,7 @@ La FFB propose un modèle gratuit, accessible sans adhésion sur dechets-chantie
 
 Le modèle prévoit aussi deux autres éléments utiles à reprendre : un "correspondant environnement/déchets" nommé, responsable du suivi tout au long du chantier, et une présentation générale du chantier, entreprise, lieu, maître d'ouvrage, lot concerné.
 
-Un usage complémentaire, largement pratiqué dans le secteur pour documenter ce qui a été réellement fait : les photos horodatées et géolocalisées du tri sur chantier. Ce n'est pas une exigence formellement codifiée dans un texte, mais un usage de bon sens qui vient renforcer le justificatif au moment où on en a besoin.
+Un usage complémentaire, largement pratiqué dans le secteur pour documenter ce qui a été réellement fait : les photos horodatées et géolocalisées du tri sur chantier. Ce n'est pas une exigence formellement codifiée dans un texte, mais un usage de bon sens qui vient renforcer le justificatif au moment où on en a besoin, à condition de connaître ses limites, [détaillées sur la page dédiée](/comment-prendre-photo-horodatee-geolocalisee-chantier).
 
 ## Le problème du fait main
 
