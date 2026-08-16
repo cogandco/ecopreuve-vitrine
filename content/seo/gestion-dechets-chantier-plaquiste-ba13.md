@@ -12,7 +12,7 @@ Trier le plâtre à part n'est pas une bonne pratique parmi d'autres : c'est une
 
 Le décret n°2021-950 du 16 juillet 2021, entré en vigueur le 19 juillet 2021, étend l'obligation de tri des déchets de construction et de démolition de 5 à 7 flux, en y ajoutant la fraction minérale et le plâtre : plaques de plâtre, cloisons alvéolaires, dalles, carreaux de plâtre. **C'est une obligation légale de tri à la source, pas une simple recommandation de bon sens.**
 
-C'est un texte distinct de la REP Bâtiment (REP PMCB), en vigueur depuis le 1er mai 2023, qui organise ensuite la reprise de ce plâtre déjà trié via des points de collecte agréés par les éco-organismes. Les deux obligations se suivent : d'abord trier à la source (décret de 2021), ensuite déposer dans la bonne filière (REP PMCB de 2023).
+C'est un texte distinct de la REP Bâtiment (REP PMCB), en vigueur depuis le 1er mai 2023, qui organise ensuite la reprise de ce plâtre déjà trié via des points de collecte agréés par les éco-organismes. Les deux obligations se suivent : d'abord trier à la source (décret de 2021), ensuite déposer dans la bonne filière (REP PMCB de 2023). Le principe complet de la REP PMCB, et pourquoi ces deux textes de 2021 sont si souvent confondus, est expliqué sur [la page dédiée](/rep-pmcb-obligation-artisan-explication-simple).
 
 Les isolants que vous posez couramment, laine de verre et laine de roche, relèvent eux aussi de la REP PMCB depuis 2023. Ils sont recyclables selon la filière professionnelle, avec environ 90 % de la laine de verre valorisée selon les circuits en place aujourd'hui. Aucune distinction réglementaire trouvée entre les deux types de laine : le cadre est le même.
 
