@@ -29,6 +29,8 @@ Ce qui constitue un justificatif recevable, en pratique :
 
 Il faut être honnête sur ce point : il n'existe **aucun document officiel unique**, aucun label légalement encadré pour attester d'un circuit court dans le BTP. Certains fournisseurs affichent des logos ou labels commerciaux mettant en avant leur proximité ou leur production locale. Ce sont des arguments commerciaux, utiles pour construire un dossier, mais ce ne sont pas des justificatifs réglementaires au sens où l'entend un acheteur public : rien n'y équivaut à une attestation officielle.
 
+Une fois ces documents réunis, encore faut-il savoir ce qu'ils pèsent vraiment dans la notation, et ce qu'un fournisseur local apporte au-delà de ce critère : c'est l'objet de [la page dédiée à l'avantage marché public](/fournisseur-materiaux-local-avantage-marche-public).
+
 ## Le problème du fait main
 
 Le piège le plus concret : confondre l'adresse administrative d'un fournisseur avec le lieu réel de production ou de stockage du matériau. Un fournisseur peut avoir un siège social loin du chantier, mais un dépôt ou un site de production local, ou l'inverse, un siège proche mais une fabrication réelle à des centaines de kilomètres. Un calcul de distance fait uniquement à partir de l'adresse administrative, sans vérifier d'où le matériau part réellement, peut fausser complètement la preuve apportée, dans un sens comme dans l'autre.
