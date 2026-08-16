@@ -26,7 +26,7 @@ Un fournisseur local apporte des avantages qui ne se limitent pas à la note env
 - **Une réactivité plus grande en cas d'imprévu** : une commande complémentaire en urgence ou un ajustement de dernière minute se gèrent plus facilement avec un fournisseur proche qu'avec un circuit d'approvisionnement long.
 - **Une moindre exposition aux aléas logistiques** propres au transport longue distance, retards, ruptures de charge, dépendance à un nombre plus restreint de transporteurs.
 
-Pour valoriser ça dans un mémoire technique, la règle est simple : des éléments factuels et quantifiés plutôt qu'une formulation vague. "Nous travaillons en circuit court" ne dit rien de vérifiable à un acheteur public. Une distance réelle chiffrée, un délai de livraison garanti en jours, un nom de site précis, ça se vérifie et ça pèse davantage dans la notation qu'une déclaration d'intention.
+Pour valoriser ça dans un mémoire technique, la règle est simple : des éléments factuels et quantifiés plutôt qu'une formulation vague. "Nous travaillons en circuit court" ne dit rien de vérifiable à un acheteur public. Une distance réelle chiffrée, avec la bonne méthode de calcul détaillée sur [la page dédiée](/calcul-distance-fournisseur-chantier-justification), un délai de livraison garanti en jours, un nom de site précis, ça se vérifie et ça pèse davantage dans la notation qu'une déclaration d'intention.
 
 ## Le problème du fait main
 

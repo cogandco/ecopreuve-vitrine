@@ -25,7 +25,7 @@ En pratique, un acheteur public qui veut valoriser une logique de proximité s'a
 Ce qui constitue un justificatif recevable, en pratique :
 
 - Une **facture fournisseur mentionnant clairement l'adresse d'origine du matériau**, le siège social ou, mieux, le site de production ou de stockage réel d'où le matériau est effectivement parti.
-- Un **calcul de distance simple** entre ce point d'origine et le chantier, pour objectiver le kilométrage plutôt que de l'affirmer.
+- Un **calcul de distance simple** entre ce point d'origine et le chantier, pour objectiver le kilométrage plutôt que de l'affirmer, avec la bonne méthode détaillée sur [la page dédiée au calcul de distance](/calcul-distance-fournisseur-chantier-justification).
 
 Il faut être honnête sur ce point : il n'existe **aucun document officiel unique**, aucun label légalement encadré pour attester d'un circuit court dans le BTP. Certains fournisseurs affichent des logos ou labels commerciaux mettant en avant leur proximité ou leur production locale. Ce sont des arguments commerciaux, utiles pour construire un dossier, mais ce ne sont pas des justificatifs réglementaires au sens où l'entend un acheteur public : rien n'y équivaut à une attestation officielle.
 
