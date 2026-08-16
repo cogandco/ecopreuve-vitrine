@@ -32,7 +32,7 @@ Le bordereau de dépôt constate ce qui s'est réellement passé, pas ce qui ét
 - la quantité déposée pour chaque type de déchet, en volume ou en masse
 - l'identité du maître d'ouvrage et de l'entreprise de travaux
 
-C'est un constat après coup, à comparer avec [l'estimation prévisionnelle qui figure sur le devis](/mention-dechets-devis-btp), déjà vue en détail sur [les pages précédentes](/modele-mention-dechets-devis-travaux). Les deux documents se complètent dans une même logique de traçabilité, mais ce sont deux obligations distinctes : aucun texte ne présente le bordereau de dépôt comme la pièce justificative formelle de la mention du devis.
+C'est un constat après coup, à comparer avec [l'estimation prévisionnelle qui figure sur le devis](/mention-dechets-devis-btp), déjà vue en détail sur [les pages précédentes](/modele-mention-dechets-devis-travaux). Les deux documents se complètent dans une même logique de traçabilité, mais ce sont deux obligations distinctes : aucun texte ne présente le bordereau de dépôt comme la pièce justificative formelle de la mention du devis. Un troisième document se situe entre les deux dans le temps, le SOGED, rempli en début de chantier avec des quantités encore estimées, [détaillé sur la page dédiée](/modele-rapport-preuve-environnementale-chantier-gratuit).
 
 ## Le problème du fait main
 

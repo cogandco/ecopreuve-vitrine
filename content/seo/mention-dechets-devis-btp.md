@@ -28,7 +28,7 @@ Le devis doit préciser (art. D.541-45-1 du Code de l'environnement) :
 
 ## Le problème du fait main
 
-Rédiger cette mention à la main pour chaque devis, sans suivi entre le devis et ce qui se passe réellement sur le chantier, fait perdre du temps et laisse un vrai risque d'oubli.
+Rédiger cette mention à la main pour chaque devis, sans suivi entre le devis et ce qui se passe réellement sur le chantier, fait perdre du temps et laisse un vrai risque d'oubli. Ce même trou, entre une estimation de départ et la réalité du chantier, se retrouve un cran plus loin avec le SOGED, [détaillé sur la page dédiée](/modele-rapport-preuve-environnementale-chantier-gratuit).
 
 ## CTA
 

@@ -84,7 +84,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 
 | # | Requête | Statut | Fichier |
 |---|---|---|---|
-| 42 | Modèle rapport preuve environnementale chantier gratuit | ⬜ | — |
+| 42 | Modèle rapport preuve environnementale chantier gratuit | ✅ | `modele-rapport-preuve-environnementale-chantier-gratuit.md` |
 | 43 | Comment prendre photo horodatée géolocalisée chantier | ⬜ | — |
 | 44 | Logiciel gestion déchets chantier artisan gratuit | ⬜ | — |
 | 45 | Application mobile chantier BTP preuve environnementale | ⬜ | — |
