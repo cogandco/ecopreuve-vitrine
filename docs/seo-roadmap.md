@@ -53,7 +53,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | 25 | Déchets inertes chantier gravats où déposer | ✅ | `dechets-inertes-chantier-gravats-ou-deposer.md` |
 | 26 | REP PMCB obligation artisan explication simple | ✅ | `rep-pmcb-obligation-artisan-explication-simple.md` |
 | 27 | Point de collecte déchets chantier proche de moi | ✅ | `point-de-collecte-dechets-chantier-proche-de-moi.md` |
-| 28 | Éco-organisme bâtiment reprise gratuite déchets | ⬜ | — |
+| 28 | Éco-organisme bâtiment reprise gratuite déchets | ✅ | `eco-organisme-batiment-reprise-gratuite-dechets.md` |
 
 ## Famille D — Par corps de métier (gabarit unique réutilisable)
 
