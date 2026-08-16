@@ -28,7 +28,7 @@ Un usage complémentaire, largement pratiqué dans le secteur pour documenter ce
 
 ## Le problème du fait main
 
-Le trou à connaître, entre l'engagement du SOGED et la réalité du chantier : une fois les quantités estimées couchées sur le papier en début de chantier, rien ne garantit automatiquement qu'elles correspondent à ce qui a été réellement trié, ni ne le documente pour le prouver après coup. Sans suivi systématique entre le début et la fin du chantier, le SOGED reste un engagement sur le papier, pas une preuve de ce qui s'est passé.
+Le trou à connaître, entre l'engagement du SOGED et la réalité du chantier : une fois les quantités estimées couchées sur le papier en début de chantier, rien ne garantit automatiquement qu'elles correspondent à ce qui a été réellement trié, ni ne le documente pour le prouver après coup. Sans suivi systématique entre le début et la fin du chantier, le SOGED reste un engagement sur le papier, pas une preuve de ce qui s'est passé. Un état des lieux des solutions gratuites existantes pour ce suivi est disponible sur [la page dédiée](/logiciel-gestion-dechets-chantier-artisan-gratuit).
 
 ## CTA
 
