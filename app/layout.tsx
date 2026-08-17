@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Éco-Preuve — Le tri de chantier qui paie, prêt pour vos appels d'offres",
   description:
-    "Documentez le tri de vos déchets sur chaque chantier, bénéficiez de la reprise gratuite REP PMCB, et générez vos preuves pour les appels d'offres avec critères RSE.",
+    "Documentez le tri de vos déchets sur chaque chantier, bénéficiez de la reprise REP PMCB (gratuite sous conditions), et générez vos preuves pour les appels d'offres avec critères RSE.",
   icons: {
     icon: { url: "/images/favicon.png", type: "image/png" },
   },
