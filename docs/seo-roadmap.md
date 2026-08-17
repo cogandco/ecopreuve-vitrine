@@ -32,7 +32,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | # | Requête | Statut | Fichier |
 |---|---|---|---|
 | 11 | Comment un artisan répond à un critère environnemental marché public | ✅ | `comment-artisan-repond-critere-environnemental-marche-public.md` |
-| 12 | Article 35 loi climat résilience artisan BTP explication simple | ⬜ | — |
+| 12 | Article 35 loi climat résilience artisan BTP explication simple | ✅ | `article-35-loi-climat-resilience-artisan-btp-explication-simple.md` |
 | 13 | Marché public refusé absence critère environnemental TPE | ⬜ | — |
 | 14 | Preuve environnementale marché public sans service qualité | ⬜ | — |
 | 15 | Clause exécution environnementale chantier obligation | ⬜ | — |
