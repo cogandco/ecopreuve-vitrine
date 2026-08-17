@@ -88,4 +88,4 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | 43 | Comment prendre photo horodatée géolocalisée chantier | ✅ | `comment-prendre-photo-horodatee-geolocalisee-chantier.md` |
 | 44 | Logiciel gestion déchets chantier artisan gratuit | ✅ | `logiciel-gestion-dechets-chantier-artisan-gratuit.md` |
 | 45 | Application mobile chantier BTP preuve environnementale | ✅ | `application-mobile-chantier-btp-preuve-environnementale.md` |
-| 46 | Excel suivi déchets chantier modèle gratuit | ⬜ | — |
+| 46 | Excel suivi déchets chantier modèle gratuit | 🚫 fusionné | Contenu neuf trop mince pour une page autonome (vérifié via recherche web le 16/08/2026) : recoupe substantiellement les pages 42 (SOGED) et 44 (logiciels gratuits). Absorbé dans `logiciel-gestion-dechets-chantier-artisan-gratuit.md` (correction Obat/Organilog, ajout Novade, colonnes SOGED transposées en tableur). Famille F close à 4 pages. |

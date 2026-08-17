@@ -20,11 +20,13 @@ Trois catégories de solutions gratuites existent, avec des périmètres différ
 
 **Ecodrop** est une application mobile privée, gratuite, qui aide à trouver une déchèterie partenaire ou organiser une collecte sur chantier. Elle a été distinguée par l'ADEME dans le cadre d'un appel à projets. Sa limite est géographique : la couverture reste circonscrite à l'Île-de-France, avec une quarantaine de points de collecte partenaires. D'autres applications suivent le même principe, chacune adossée à son propre service de collecte, recensées sur [la page dédiée](/application-mobile-chantier-btp-preuve-environnementale).
 
-**Les modèles Excel gratuits**, proposés notamment par plusieurs sites spécialisés BTP, restent la solution "fait maison" la plus répandue : des tableaux de suivi de chantier avec un module dédié aux déchets, personnalisables, sans coût.
+**Les modèles Excel gratuits** restent la solution "fait maison" la plus répandue, mais leur pertinence pour ce sujet précis varie fortement d'un site à l'autre. **4geniecivil** propose le seul modèle réellement dédié aux déchets parmi ceux identifiés : une section "types de déchets et volumes", des formules automatiques de calcul de totaux, des graphiques, et une section pour les BSDD, en téléchargement direct et gratuit, sans inscription. **Obat** et **Organilog** proposent chacun un modèle gratuit, mais ce sont des tableaux de suivi de chantier généralistes, planning, budget, achats et ressources, sans section dédiée aux déchets. **Novade**, éditeur de logiciels BTP reconnu, propose de son côté un modèle "bordereau de suivi des déchets" à la structure différente du SOGED, plus proche d'un registre : producteur, nature du déchet, quantité, transporteur, site de traitement, numéro de bordereau BSD, signatures. Contrairement à 4geniecivil, l'accès nécessite une inscription (nom, e-mail, téléphone, entreprise) avant téléchargement, pas un accès direct sans friction.
 
 Un autre outil, **BatiDéchets**, déjà détaillé sur [la page dédiée aux points de collecte](/point-de-collecte-dechets-chantier-proche-de-moi) et sur [la page REP PMCB](/rep-pmcb-obligation-artisan-explication-simple), fonctionne comme un outil d'orientation plutôt qu'un logiciel de suivi : pas la peine de le redévelopper ici.
 
 ## Le modèle
+
+Pour qui préfère construire sa propre feuille plutôt que d'utiliser un modèle existant, la structure à 6 colonnes du SOGED, déjà détaillée sur [la page dédiée](/modele-rapport-preuve-environnementale-chantier-gratuit), type de déchets, quantité, filière, traitement, moyens, justificatif, est directement transposable en tableur. Trois colonnes supplémentaires reviennent systématiquement en usage quotidien, absentes du SOGED lui-même : la date, le chantier concerné si plusieurs chantiers sont suivis dans le même fichier, et le responsable.
 
 Les modèles Excel restent la solution la plus accessible, mais leurs limites sont documentées et connues :
 
