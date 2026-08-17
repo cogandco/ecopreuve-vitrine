@@ -24,7 +24,7 @@ Cette chronologie a son importance : cette obligation est ancienne, actualisée 
 
 Le piège le plus fréquent pour ce métier : confier ses équipements électriques en fin de vie à un ferrailleur classique, en pensant que c'est de la ferraille comme une autre. Un tableau électrique, un luminaire ou un ballast peuvent contenir du mercure, pour certaines lampes et tubes, des condensateurs, des batteries ou du gaz réfrigérant. Ces composants doivent être dépollués avant tout traitement matière, et un ferrailleur généraliste ne pratique pas systématiquement cette dépollution.
 
-Sur la reprise gratuite : elle existe, mais elle est conditionnée, pas automatique quel que soit le volume. Pour en bénéficier, il faut en général des volumes suffisants, un tri par catégorie d'équipement, et un conditionnement conforme aux règles demandées. Ce n'est pas un droit inconditionnel d'enlèvement gratuit dès le premier équipement déposé.
+Sur la reprise gratuite : elle existe, mais elle est conditionnée, pas automatique quel que soit le volume. Pour en bénéficier, il faut en général des volumes suffisants, un tri par catégorie d'équipement, et un conditionnement conforme aux règles demandées. Ce n'est pas un droit inconditionnel d'enlèvement gratuit dès le premier équipement déposé. Ce dispositif de reprise gratuite est en cours de révision au niveau national : vérifiez son statut actuel avant de vous déplacer.
 
 Deux éco-organismes agréés pour les DEEE, y compris professionnels, sont confirmés : Ecosystem et Ecologic. Nous ne pouvons pas affirmer qu'il s'agit d'une liste exhaustive de tous les acteurs du marché.
 

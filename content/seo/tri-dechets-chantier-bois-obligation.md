@@ -26,7 +26,7 @@ Une fois le bois trié à part, il rejoint un circuit de reprise structuré par 
 
 L'objectif affiché par Valobat à horizon 2027 : 45 % de recyclage matière et 45 % de valorisation énergétique pour les déchets bois du bâtiment. Le recyclage matière ne se limite pas à la chaufferie biomasse déjà connue : il passe aussi par une transformation en **panneaux de particules** ou en **pâte à papier**, via une dizaine d'installations françaises qui consomment du bois recyclé. Seuls les copeaux inutilisables pour cette filière matière partent en valorisation énergétique.
 
-Repère de gisement : le bois du bâtiment représente 2,2 millions de tonnes de déchets en France, dont 41 % recyclés et 36 % valorisés énergétiquement en 2020. La reprise est gratuite en point d'apport agréé, à condition que le bois soit déposé trié des autres flux.
+Repère de gisement : le bois du bâtiment représente 2,2 millions de tonnes de déchets en France, dont 41 % recyclés et 36 % valorisés énergétiquement en 2020. La reprise est gratuite en point d'apport agréé, à condition que le bois soit déposé trié des autres flux. Ce dispositif de reprise gratuite est en cours de révision au niveau national : vérifiez son statut actuel avant de vous déplacer.
 
 Sur la qualité du bois lui-même, le référentiel de classification en trois classes A, B, C, déjà détaillé sur [la page dédiée au menuisier](/gestion-dechets-chantier-menuisier-chutes-bois), a été affiné en mai 2022 : la classe B se subdivise désormais en BR1 et BR2, pour mieux correspondre aux exigences de recyclage matière de la filière.
 

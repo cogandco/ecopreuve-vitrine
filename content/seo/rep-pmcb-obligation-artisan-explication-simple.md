@@ -34,7 +34,7 @@ Une façon simple de retenir la différence : le premier décret organise le ges
 
 Contrairement à ce qu'on pourrait craindre en découvrant l'existence d'un éco-organisme et d'une éco-contribution, rien de tout ça ne concerne directement l'artisan. Pas de cotisation à payer, pas d'adhésion à un éco-organisme, pas de déclaration à faire : ces obligations pèsent uniquement sur les fabricants, distributeurs et importateurs qui mettent les produits sur le marché.
 
-La seule chose qui reste entre les mains de l'artisan, c'est de trier ses déchets et de les déposer dans un point de collecte agréé, déjà détaillé flux par flux sur les autres pages de cette famille. En échange de ce geste, la reprise est gratuite : le système est déjà financé, il suffit de s'en servir correctement, dans les conditions précises détaillées sur [la page dédiée à la reprise gratuite](/eco-organisme-batiment-reprise-gratuite-dechets).
+La seule chose qui reste entre les mains de l'artisan, c'est de trier ses déchets et de les déposer dans un point de collecte agréé, déjà détaillé flux par flux sur les autres pages de cette famille. En échange de ce geste, la reprise est gratuite aujourd'hui : le système est déjà financé, il suffit de s'en servir correctement, dans les conditions précises détaillées sur [la page dédiée à la reprise gratuite](/eco-organisme-batiment-reprise-gratuite-dechets). Ce dispositif est en cours de révision au niveau national : mieux vaut vérifier son statut actuel avant de vous déplacer plutôt que de se fier à un acquis définitif.
 
 ## CTA
 
