@@ -38,7 +38,7 @@ Décret n°2020-1817, s'applique à tous les devis BTP, pas seulement marchés p
 | 15 | Clause exécution environnementale chantier obligation | ✅ | `clause-execution-environnementale-chantier-obligation.md` |
 | 16 | Petite entreprise BTP marché public critère RSE que faire | ✅ | `petite-entreprise-btp-marche-public-critere-rse-que-faire.md` |
 | 17 | Dossier candidature marché public preuve déchets circuit court | ✅ | `dossier-candidature-marche-public-preuve-dechets-circuit-court.md` |
-| 18 | Marché public BTP 21 août 2026 ce qui change concrètement | ⬜ | — |
+| 18 | Marché public BTP 21 août 2026 ce qui change concrètement | ✅ | `marche-public-btp-21-aout-2026-ce-qui-change-concretement.md` |
 
 ## Famille C — Gestion déchets par flux REP PMCB (aligné produit)
 
