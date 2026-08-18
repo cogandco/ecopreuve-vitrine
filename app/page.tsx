@@ -1,17 +1,18 @@
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
+import Reveal from "@/components/Reveal";
 
 export default function Home() {
   return (
     <>
       <SiteHeader />
 
-      <section className="hero">
+      <Reveal className="hero">
         <div className="hero-content">
-          <span className="eyebrow">La reprise gratuite de vos déchets triés, sous conditions, disponible depuis mai 2023</span>
+          <span className="eyebrow">Documentez le tri, le circuit court et la traçabilité de vos déchets de chantier</span>
           <h1>Chaque chantier trié, chaque déchet valorisé.</h1>
           <p className="subhead">
-            {`Photographiez vos preuves de tri en quelques secondes sur le terrain. Profitez de la reprise gratuite en point de collecte agréé, sous conditions, et constituez votre dossier de preuves au fil de l'eau, prêt pour votre prochain marché.`}
+            {`Photographiez vos preuves de tri en quelques secondes sur le terrain, et constituez votre dossier de preuves au fil de l'eau, prêt pour votre prochain marché.`}
           </p>
           <a href="#comment-ca-marche" className="cta">Voir comment ça marche en 30 secondes</a>
         </div>
@@ -19,13 +20,13 @@ export default function Home() {
           <img src="/images/hero-chantier.jpg" alt="Artisan photographiant des déchets de chantier" />
           <div className="tag">Horodatée · Géolocalisée</div>
         </div>
-      </section>
+      </Reveal>
 
-      <section className="block" id="quotidien" style={{ background: "var(--green-pale)" }}>
+      <Reveal className="block" id="quotidien" style={{ background: "var(--green-pale)" }}>
         <div className="wrap" style={{ maxWidth: "780px", textAlign: "center" }}>
-          <h2>Moins de frais de déchetterie, plus de preuves pour vos dossiers</h2>
+          <h2>Une obligation de tri, une preuve à construire chaque jour</h2>
           <p style={{ fontSize: "15px", color: "var(--muted)", marginBottom: "24px" }}>
-            {`Le tri à la source des déchets de chantier est une obligation générale pour tout professionnel du bâtiment. Depuis mai 2023, la filière REP PMCB transforme cette obligation en avantage concret : vos déchets triés sont repris gratuitement par les éco-organismes agréés, sous conditions de tri, de propreté et de volume, financés par l'éco-contribution déjà payée sur vos matériaux. Ce dispositif est en cours de révision au niveau national : vérifiez son statut actuel avant de vous déplacer. Une habitude simple à prendre dès aujourd'hui pour alléger vos coûts et valoriser votre entreprise.`}
+            {`Le tri à la source des déchets de chantier est une obligation générale pour tout professionnel du bâtiment. Depuis mai 2023, la filière REP PMCB organise la reprise de ces déchets triés par les éco-organismes agréés, sous conditions de tri, de propreté et de volume. Documenter ce geste au moment où il a lieu, photo, date, lieu, transforme une obligation quotidienne en preuve exploitable pour vos dossiers, sans attendre le jour où elle est demandée.`}
           </p>
           <a
             href="https://oca-batiment.org/reseau-points-de-collecte/"
@@ -37,9 +38,9 @@ export default function Home() {
             Trouver un point de collecte agréé
           </a>
         </div>
-      </section>
+      </Reveal>
 
-      <section className="block" id="solution" style={{ background: "white" }}>
+      <Reveal className="block" id="solution" style={{ background: "white" }}>
         <div className="wrap">
           <h2>{`Ce qu'Éco-Preuve documente pour vous`}</h2>
           <div className="solution-grid">
@@ -65,9 +66,9 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </Reveal>
 
-      <section className="block" id="obligation">
+      <Reveal className="block" id="obligation">
         <div className="wrap">
           <h2>Un bonus disponible dans tous vos marchés publics</h2>
           <div className="problem-list">
@@ -101,9 +102,9 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </Reveal>
 
-      <section className="block steps" id="comment-ca-marche">
+      <Reveal className="block steps" id="comment-ca-marche">
         <h2>Comment ça marche</h2>
         <div className="step-row">
           <div className="step">
@@ -131,13 +132,13 @@ export default function Home() {
             <p>{`Le rapport appuie votre réponse à l'appel d'offres, public ou privé — le jour où vous en avez besoin.`}</p>
           </div>
         </div>
-      </section>
+      </Reveal>
 
-      <section className="cta-final">
+      <Reveal className="cta-final">
         <h2>Prêt à trier plus simplement ?</h2>
         <p>{`Commencez à documenter vos chantiers dès aujourd'hui.`}</p>
         <a href="https://app.ecopreuve.fr/login" className="cta">Créer mon compte</a>
-      </section>
+      </Reveal>
 
       <SiteFooter />
     </>

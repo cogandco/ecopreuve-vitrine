@@ -20,6 +20,30 @@ body {
 
 img { max-width: 100%; display: block; }
 
+/* Révélation au scroll (composant Reveal) : fondu + léger décalage vertical,
+   déclenché une fois par IntersectionObserver. Curve "accélère puis
+   décélère" (courbe standard Material), 500ms, dans la fourchette demandée. */
+
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1),
+              transform 500ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.reveal-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    transition: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+
 .wrap {
   max-width: 1100px;
   margin: 0 auto;
@@ -147,9 +171,10 @@ h1 {
   padding: 14px 28px;
   border-radius: 2px;
   text-decoration: none;
+  transition: opacity 180ms ease, transform 180ms ease;
 }
 
-.cta:hover { opacity: 0.92; }
+.cta:hover { opacity: 0.92; transform: translateY(-2px); }
 
 .hero-visual {
   position: relative;
@@ -208,7 +233,10 @@ section.block h2 {
   border-left: 4px solid var(--orange);
   border-radius: 2px;
   padding: 20px 24px;
+  transition: transform 180ms ease;
 }
+
+.problem-item:hover { transform: translateY(-2px); }
 
 .problem-item .num {
   font-family: 'IBM Plex Mono', monospace;
@@ -235,6 +263,12 @@ section.block h2 {
   border: 1px solid var(--border);
   border-radius: 4px;
   padding: 24px;
+  transition: border-color 180ms ease, transform 180ms ease;
+}
+
+.solution-item:hover {
+  border-color: var(--green-brand);
+  transform: translateY(-2px);
 }
 
 .solution-item .check {
